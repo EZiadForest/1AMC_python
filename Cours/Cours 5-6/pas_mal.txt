@@ -1,4 +1,0 @@
-Je sais ajouter
-du texte
-avec Python !
-Pour ajouter du texte avec des caractères accentués: ï
